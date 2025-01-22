@@ -1,0 +1,12 @@
+@font-face {
+    font-family: visby-regular;
+    src: url(../fonts/VisbyRegular.otf);
+  }
+  @font-face {
+    font-family: visby-medium;
+    src: url(../fonts/VisbyMedium.otf);
+  }
+  @font-face {
+    font-family: visby-bold;
+    src: url(../fonts/VisbyBold.otf);
+  }
